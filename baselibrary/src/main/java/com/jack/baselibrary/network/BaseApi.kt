@@ -23,7 +23,4 @@ abstract class BaseApi<Service, Result>(protected val service: Service) : IApi<R
             this.result = executor.requestWithResponse(this@BaseApi)
         }
     }
-
-
-
 }
