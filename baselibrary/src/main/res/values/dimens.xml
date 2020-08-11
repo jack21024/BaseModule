@@ -4,6 +4,8 @@
     <dimen name="bs_padding_mid">10dp</dimen>
     <dimen name="bs_padding_small">8dp</dimen>
 
+    <dimen name="bs_space_xlarge">16dp</dimen>
+    <dimen name="bs_space_large">8dp</dimen>
     <dimen name="bs_space_normal">4dp</dimen>
     <dimen name="bs_space_small">2dp</dimen>
 
