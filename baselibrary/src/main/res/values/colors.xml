@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bs_white">#FFFFFF</color>
+
+    <color name="bs_gray_900">#212121</color>
+    <color name="bs_gray_500">#9E9E9E</color>
+    <color name="bs_gray_400">#BDBDBD</color>
+    <color name="bs_gray_300">#E0E0E0</color>
+    <color name="bs_gray_100">#F5F5F5</color>
+
+    <color name="bs_yellow">#FFEB3B</color>
+
+    <color name="bs_blue_900">#01579B</color>
+    <color name="bs_blue_600">#039BE5</color>
+    <color name="bs_blue_200">#81D4FA</color>
+</resources>

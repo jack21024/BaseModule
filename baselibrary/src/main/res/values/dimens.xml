@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bs_padding_large">16dp</dimen>
+    <dimen name="bs_padding_mid">10dp</dimen>
+    <dimen name="bs_padding_small">8dp</dimen>
+
+    <dimen name="bs_space_normal">4dp</dimen>
+    <dimen name="bs_space_small">2dp</dimen>
+
+    <dimen name="bs_text_normal">16dp</dimen>
+    <dimen name="bs_text_small">14dp</dimen>
+</resources>
